@@ -8,11 +8,12 @@ Welcome to **Field Investigations** — a curated repository of field notes, tec
 
 This repository documents lessons learned and technical references from hands-on field investigations, including:
 
-- 🌀 **Load Flow Studies** — Practical observations and modeling tips from industrial, commercial, and utility power systems.
-- 🛡️ **Protection Schemes** — Notes and sketches from field audits, coordination studies, and relay grading exercises.
+- **Load Flow Studies** — Practical observations and modeling tips from industrial, commercial, and utility power systems.
+- **Protection Schemes** — Notes and sketches from field audits, coordination studies, and relay grading exercises.
 - 🔍 **Power Quality & Fault Analysis** — Case studies involving harmonics, transients, and abnormal operating conditions.
-- ⚙️ **Arc Flash & Safety Practices** — On-site mitigation techniques and applied standards (IEEE 1584, NFPA 70E, etc).
-- 📷 **Photos, Logs & Diagrams** — Annotated images, system one-lines, and substation walkdowns.
+- **Arc Flash & Safety Practices** — On-site mitigation techniques and applied standards (IEEE 1584, NFPA 70E, etc).
+-  **Photos, Logs & Diagrams** — Annotated images, system one-lines, and substation walkdowns.
+- **Electrical Design** - Electrical Design Field Notes and Templates
 
 ---
 
