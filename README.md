@@ -38,13 +38,12 @@ Here are a few related repositories from my GitHub that may interest engineers, 
 
 | Repository | Description |
 |------------|-------------|
+| [`PyPSA`](https://github.com/PyPSA/PyPSA) | PyPSA is an open source toolbox for simulating and optimising modern power and energy systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. |
 | [`PowerSyBl`](https://github.com/powsybl/powsybl-core) | Power System Blocks (PowerSyBl) is an open-source framework designed for simulating and analyzing large-scale power systems, including grid expansion, load flow, and security analysis. |
 | [`pandapower`](https://github.com/e2nIEE/pandapower) | pandapower is a Python-based power system analysis tool that combines the ease of scripting with a powerful grid calculation engine, ideal for load flow, short circuit, and optimal power flow studies. |
 | [`MATPOWER`](https://github.com/MATPOWER/matpower) | MATPOWER is a package of MATLAB-based simulation tools for solving power flow and optimal power flow problems, widely used in academic and research applications. |
 | [`best-of-ps`](https://github.com/ps-wiki/best-of-ps) | A curated list of the best open-source tools and libraries for power systems modeling, simulation, optimization, and visualization. |
-| [`PyPSA`](https://github.com/PyPSA/PyPSA) | PyPSA is an open source toolbox for simulating and optimising modern power and energy systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. |
 | [GElectrical](https://github.com/manuvarkey/GElectrical) | GElectrical is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.|
-| [MEP-Design-Sheets](https://github.com/manuvarkey/MEP-Design-Sheets) | This is a compilation of MEP design sheets written over the years by Manu Varkey. |
 
 > Want to explore all my work? Visit my [GitHub profile]](https://github.com/shanks847)
 
