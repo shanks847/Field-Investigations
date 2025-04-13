@@ -20,7 +20,7 @@ for brk in st.session_state.breaker_states:
     st.session_state.breaker_states[brk] = st.sidebar.checkbox(brk, value=st.session_state.breaker_states[brk])
 
 def draw_diagram():
-    fig, ax = plt.subplots(figsize=(12, 8), dpi=150)
+    fig, ax = plt.subplots(figsize=(16, 12), dpi=300)
     size = 0.08
 
     y_top = 5
