@@ -41,11 +41,11 @@ Here are a few related repositories from my GitHub that may interest engineers, 
 
 | Repository | Description |
 |------------|-------------|
-| 🔌 [`ArcFlashStudies`](https://github.com/yourusername/ArcFlashStudies) | Tools, spreadsheets, and field notes related to arc flash analysis using IEEE 1584 and NFPA 70E methodologies. |
-| ⚙️ [`RelayCoordinationToolkit`](https://github.com/yourusername/RelayCoordinationToolkit) | Python-based tools for plotting TCC curves, reviewing relay settings, and automating coordination studies. |
-| 🌿 [`GreenPlantDriveSystem`](https://github.com/yourusername/GreenPlantDriveSystem) | Control and simulation files for inverter-fed induction motors in sustainable farming applications. |
-| 📊 [`PowerSystemAnalysisStreamlit`](https://github.com/yourusername/PowerSystemAnalysisStreamlit) | A web-based interface for power flow simulations using `pandapower` and Streamlit, great for visualization. |
-| 🧪 [`Bioimpedance-PlantHydration`](https://github.com/yourusername/Bioimpedance-PlantHydration) | Experimental research repo for using bioimpedance spectroscopy to analyze hydration in agricultural tubers. |
+| [`ArcFlashStudies`](https://github.com/yourusername/ArcFlashStudies) | Tools, spreadsheets, and field notes related to arc flash analysis using IEEE 1584 and NFPA 70E methodologies. |
+| [`RelayCoordinationToolkit`](https://github.com/yourusername/RelayCoordinationToolkit) | Python-based tools for plotting TCC curves, reviewing relay settings, and automating coordination studies. |
+| [`PyPSA`](https://github.com/PyPSA/PyPSA) | PyPSA is an open source toolbox for simulating and optimising modern power and energy systems that include features such as conventional generators with unit commitment, variable wind and solar generation, storage units, coupling to other energy sectors, and mixed alternating and direct current networks. |
+| [GElectrical](https://github.com/manuvarkey/GElectrical) | GElectrical is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.|
+|  [`MEP-Design-Sheets](https://github.com/manuvarkey/MEP-Design-Sheets) | This is a compilation of MEP design sheets written over the years by Manu Varkey. |
 
 > Want to explore all my work? Visit my [GitHub profile](https://github.com/yourusername)
 
