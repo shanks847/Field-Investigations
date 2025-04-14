@@ -45,6 +45,6 @@ Here are a few related repositories from my GitHub that may interest engineers, 
 | [`best-of-ps`](https://github.com/ps-wiki/best-of-ps) | A curated list of the best open-source tools and libraries for power systems modeling, simulation, optimization, and visualization. |
 | [GElectrical](https://github.com/manuvarkey/GElectrical) | GElectrical is a free and opensource electrical system analysis software for LV/MV electrical distribution networks.|
 
-> Want to explore all my work? Visit my [GitHub profile]](https://github.com/shanks847)
+> Want to explore all my work? Visit my [GitHub profile](https://github.com/shanks847)
 
 
